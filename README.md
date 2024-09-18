@@ -72,7 +72,7 @@ The goal is to help Alphabet Soup better allocate funding to applicants with the
 ## Summary and Recommendations
 The final optimized model achieved an accuracy of **73.58%**. Although the model performed well, further improvements could be made by experimenting with other machine learning models such as **Random Forest Classifier** or **Gradient Boosting Machines**. Additionally, implementing **hyperparameter tuning** techniques like **grid search** may help improve the model's performance.
 
-For a detailed analysis, model evaluation, and insights on the optimization process, please refer to the **report** available in the repository.
+For a detailed analysis, model evaluation, and insights on the optimization process, please refer to the **report.pdf** available in the repository.
 
 ## Installation and Usage Instructions
 To clone the repository and run the project on your local machine, follow these steps:
@@ -82,5 +82,5 @@ To clone the repository and run the project on your local machine, follow these 
    git clone https://github.com/yourusername/yourproject.git
 
 
-jupyter notebook AlphabetSoupCharity.ipynb
+jupyter notebook AlphabetSoupCharity_Optimisation.ipynb
 
