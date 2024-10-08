@@ -64,6 +64,14 @@ The goal is to help Alphabet Soup better allocate funding to applicants with the
 - **Loss**: 0.5531
 - **Accuracy**: 73.58%
 
+### Example code
+![example code](https://github.com/user-attachments/assets/2a183ede-00d8-49b0-a6f1-f90ceef07857)
+
+![example code 2](https://github.com/user-attachments/assets/4bf36338-dbea-4da6-b704-abfa389331f2)
+
+
+  
+
 ### Steps Taken:
 1. **Data Cleaning**: Removed non-beneficial columns and binned infrequent categories.
 2. **Model Optimization**: Added a third hidden layer and experimented with different activation functions (ReLU and Tanh) to improve performance.
